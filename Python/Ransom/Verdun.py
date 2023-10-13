@@ -1,3 +1,5 @@
+# FOR EDUCATIONAL USE ONLY!
+
 import os
 from cryptography.fernet import Fernet
 
